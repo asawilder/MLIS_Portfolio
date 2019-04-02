@@ -4,7 +4,7 @@ layout: default
 
 # Issue
 
-## [Issue Statement](./IssueStatement.md)
+[Issue Statement](./IssueStatement.md)
 
 # Course Work
 
