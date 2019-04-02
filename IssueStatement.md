@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Issue Statement
+# Issue Statement
 
-# 50 word statement
+## 50 word statement
 
 [back](./)
