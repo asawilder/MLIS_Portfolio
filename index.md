@@ -8,12 +8,12 @@ layout: default
 
 ## [Portfolio Issue](./IssueStatement.md)
 
-#### Course Work
-
-* [Core Course](./assets/CoreCourse.pdf)
+## Course Work
 
 * [Major Paper](./MajorPaper.pdf)
-      
+
+* [Core Course](./assets/CoreCourse.pdf)
+     
 * [Elective Course](./Elective.pdf)
 
 There should be whitespace between paragraphs.
