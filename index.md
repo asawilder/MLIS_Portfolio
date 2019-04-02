@@ -4,7 +4,7 @@ layout: default
 
 
 
-[Major Paper](./MLISPORTFOLIO/assets/CoreCourse.pdf).
+[Major Paper](./CoreCourse.pdf).
 
 There should be whitespace between paragraphs.
 
