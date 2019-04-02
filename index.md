@@ -2,13 +2,17 @@
 layout: default
 ---
 
+# Issue
+
+## [Issue Statement](./IssueStatement.md)
+
 # Course Work
 
-[Core Course](./CoreCourse.pdf).
+[Core Course](./CoreCourse.pdf)
 
-[Major Paper](./MajorPaper.pdf).
+[Major Paper](./MajorPaper.pdf)
       
-[Elective Course](./Elective.pdf).
+[Elective Course](./Elective.pdf)
 
 There should be whitespace between paragraphs.
 
