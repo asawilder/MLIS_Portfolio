@@ -4,9 +4,11 @@ layout: default
 
 # UCLA MLIS Portfolio - Spring 2019
 
+![Branching](self.png)
+
 ## [Portfolio Issue](./IssueStatement.md)
 
-#### - Course Work
+#### Course Work
 
 * [Core Course](./assets/CoreCourse.pdf)
 
@@ -106,7 +108,7 @@ end
 
 ### Large image
 
-![Branching](self.png)
+
 
 
 ### Definition lists can be used with HTML syntax.
