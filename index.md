@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Issue
+# UCLA MLIS Portfolio - Spring 2019
 
-[Issue Statement](./IssueStatement.md)
+## [Portfolio Issue](./IssueStatement.md)
 
-#### Course Work
+#### - Course Work
 
 * [Core Course](./assets/CoreCourse.pdf)
 
