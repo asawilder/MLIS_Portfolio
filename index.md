@@ -4,7 +4,7 @@ layout: default
 
 
 
-[Major Paper](./MLISPORTFOLIO/assets/Core Course - Universal Classification Standards and Indigenous Knowledge.pdf).
+[Major Paper](./MLISPORTFOLIO/assets/CoreCourse.pdf).
 
 There should be whitespace between paragraphs.
 
