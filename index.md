@@ -10,7 +10,7 @@ layout: default
 
 ## Course Work
 
-* [Major Paper](./MajorPaper.pdf)
+* [Major Paper](./MajorIntro.md)
 
 * [Core Course](./assets/CoreCourse.pdf)
      
