@@ -8,7 +8,7 @@ layout: default
 
 #### Course Work
 
-* [Core Course](./CoreCourse.pdf)
+* [Core Course](./assets/CoreCourse.pdf)
 
 * [Major Paper](./MajorPaper.pdf)
       
