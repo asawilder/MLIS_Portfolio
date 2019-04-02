@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+
+[Major Paper](./MLISPORTFOLIO/assets/Core Course - Universal Classification Standards and Indigenous Knowledge.pdf).
 
 There should be whitespace between paragraphs.
 
