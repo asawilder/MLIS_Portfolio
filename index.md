@@ -2,9 +2,13 @@
 layout: default
 ---
 
+# Course Work
 
+[Core Course](./CoreCourse.pdf).
 
-[Major Paper](./CoreCourse.pdf).
+[Major Paper](./Major Paper - Making Collective Memory.pdf).
+      
+[Elective Course](./Elective - Virtual Artifacts and the Digitization of Cultural Heritage.pdf).
 
 There should be whitespace between paragraphs.
 
