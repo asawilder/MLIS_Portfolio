@@ -106,7 +106,7 @@ end
 
 ### Large image
 
-![Branching](./MLIS_Portfolio/assets/img/zz103015-102.jpg)
+![Branching](self.png)
 
 
 ### Definition lists can be used with HTML syntax.
