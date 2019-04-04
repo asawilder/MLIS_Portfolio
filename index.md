@@ -9,6 +9,7 @@ layout: default
 ## [Portfolio Issue](IssueStatement.md)
 
 ## Course Work
+* * *
 
 * [Major Paper](./MajorIntro.md)
 
