@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Issue Statement](IssueStatementhtml.htm)
+[Issue Statement](IssueStatementhtml.htm)
 
 # Issue Statement
 
