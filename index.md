@@ -6,7 +6,7 @@ layout: default
 * * *
 
 
-## [Portfolio Issue]()
+## [Portfolio Issue](IssueStatement.md)
 
 ## Course Work
 
