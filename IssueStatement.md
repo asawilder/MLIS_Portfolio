@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Issue Statement](IssueStatementWeb.pdf)
+![Issue Statement](IssueStatementWebhtml.htm)
 
 # Issue Statement
 
