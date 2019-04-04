@@ -15,7 +15,7 @@ layout: default
      
 * [Elective Course](./Elective.pdf)
 
-## List of Courses
+## [List of Courses] (./courselisttest.htm)
 
 ## Advising History
 
