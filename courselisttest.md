@@ -18,7 +18,7 @@ layout: default
 * **IS-433 Community-Based Archiving**, Prof. Michelle Caswell
 
 ### Fall 2018
-*  <p style="color:red"> **IS-289 Digital Methods in Research and Scholarship**, Prof. Johanna Drucker</p>
+* **<p style="color:red"> IS-289 Digital Methods in Research and Scholarship, Prof. Johanna Drucker</p>** 
 * **IS-289 Intellectual Property Law for Libraries and Archives**, Lecturer Mikka Gee Conway
 * **IS-289 Sound Technologies and Society**, Prof. Shawn VanCour
 * **German-375 Teaching Apprentice Practicum**, Prof. Renata Fuchs
