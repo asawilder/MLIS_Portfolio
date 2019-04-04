@@ -2,6 +2,8 @@
 layout: default
 ---
 
+#Course List
+
 ### Fall 2017
 * **<span style="color:blue">IS-211 Artifacts and Cultures </span>**, Prof. Johanna Drucker 
 * **<span style="color:blue">IS-260 Description and Access </span>**, Prof. Jonathan Furner
