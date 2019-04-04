@@ -5,6 +5,8 @@ layout: default
 # UCLA MLIS Portfolio - Spring 2019
 * * *
 
+[List of Courses](./courselisttest.md)
+
 ## [Portfolio Issue]()
 
 ## Course Work
@@ -15,7 +17,7 @@ layout: default
      
 * [Elective Course](./Elective.pdf)
 
-## [List of Courses] (./courselisttest.md)
+## 
 
 ## Advising History
 
