@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Course List
+# Course List
 
 ### Fall 2017
 * **<span style="color:blue">IS-211 Artifacts and Cultures </span>**, Prof. Johanna Drucker 
