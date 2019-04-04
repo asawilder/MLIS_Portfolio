@@ -6,9 +6,9 @@ layout: default
 
 ![Branching](self.png)
 
-# [Portfolio Issue](./IssueStatement.md)
+## [Portfolio Issue](./IssueStatement.md)
 
-# Course Work
+## Course Work
 
 * * *
 
@@ -18,14 +18,12 @@ layout: default
      
 * [Elective Course](./Elective.pdf)
 
-# List of Courses
+## List of Courses
 
-# Advising History
+## Advising History
 
-# Professional Development Statement
+## Professional Development Statement
 
 
 
-```
-Spring 2019
-```
+
