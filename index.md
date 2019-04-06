@@ -19,7 +19,7 @@ layout: default
 
 ## [List of Courses](./courselisttest.md) 
 
-## Advising History
+## [Advising History] (./advisinghistory.md)
 
 ## Professional Development Statement
 
