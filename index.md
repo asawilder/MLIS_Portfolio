@@ -23,7 +23,7 @@ layout: default
 
 ## Professional Development Statement
 
-## [Resume](./Resume_pdf.pdf) 
+## [Curriculum Vitae](./Resume_pdf.pdf) 
 
 ## Additional Supporting Materials
 
