@@ -13,7 +13,7 @@ body {
 </head>
 <body>
 
-<h1 style="font-family:garamond;">>Issue Statement</h1>
+<h1 style="font-family:garamond;">Issue Statement</h1>
 
 <p>
 
