@@ -15,7 +15,7 @@ Created for Miraim Posner's *Systems and Infrastrucutres* course in Winter 2018,
 
 ### Imperial Eyes
 
-![Imperial Eyes Logo](./imperial eyes)
+![Imperial Eyes Logo](./imperial eyes.png)
 
 [Imperial Eyes](https://aireuhl.github.io/i_e/) is a digital humanities project designed and created for Professor Johanna Drucker’s *Digital Methods for Research and Scholarship* course in fall 2018. Throughout this course I was exposed to a range of new digital tools and methods which I utilized to build a single, cohesive narrative project. In creating this project I learned how to extract data using an API, use XML and JSON schema, build a website using a static site generator and a range of other valuable skills.
 
