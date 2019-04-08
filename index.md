@@ -2,6 +2,9 @@
 layout: default
 ---
 
+p {
+  font-family: garamond;
+}
 
 # UCLA MLIS Portfolio - Spring 2019
 * * *
