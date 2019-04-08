@@ -14,6 +14,6 @@ layout: default
 ## 3. [List of Courses](./courselisttest.md) 
 ## 4. [Advising History](./advisinghistory.md)
 ## 5. [Professional Development Statement](./ProfessionalDevelopment.md)
-## 6. [Curriculum Vitae](./Resume_pdf.pdf) 
+## 6. [Curriculum Vitae](./CV.pdf) 
 ## 7. [Additional Supporting Materials](./support.md)
 ## 8. [Accessibility Statement](./accessibility.md)
