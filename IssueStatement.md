@@ -3,16 +3,13 @@ layout: default
 ---
 
 
-<html>
-<head>
+
 <style>
 body {
   background-color: lightblue;
 }
 </style>
-</head>
-<body>
-</html>
+
 
 # Issue Statement
 
