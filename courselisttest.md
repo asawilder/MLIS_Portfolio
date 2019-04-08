@@ -38,7 +38,6 @@ layout: default
 * **German-375 Teaching Apprentice Practicum**, Prof. Todd Presner
 
 #### *<span style="color:blue">Core course</span>
-
 #### *<span style="color:red">Research methods course</span>
 
 [back](./)
