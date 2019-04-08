@@ -2,6 +2,7 @@
 layout: default
 ---
 ## Professional Development Statement
+[Full-text PDF version](./ProfessionalDevelopment.pdf)
 
   After three years working in public libraries, I entered the MLIS program at UCLA with a diverse set of wide-ranging interests and professional goals. For the past two years my course work has focused on media archives and preservation, community archives, museum studies, moving image technologies, sound technologies, archival description and access systems and special collections librarianship. As museums, archives and libraries have begun to converge and overlap in many of their core activities, I have attempted to place my professional future at the center of this overlap. I envision myself working within the special collections of a large research institution or university, a small community-based or local archive, or a museum’s archives and library. The primary focus of my academic study has been the preservation, description and accessibility of obsolete media formats, from magnetic tape audio recordings and small gauge film to complex digital objects and software-dependent materials. As many collecting institutions have now expanded their scope far beyond traditional paper archives, I believe these skills will become increasingly relevant to archival work at all levels. Thus, my short-term professional goal is to gain extensive hands-on experience processing and describing archival collections, in order to more fully realize the technical proficiencies necessary to work with diverse media formats. 
 
