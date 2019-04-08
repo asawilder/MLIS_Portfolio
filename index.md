@@ -8,14 +8,7 @@ layout: default
 
 ## [Portfolio Issue](IssueStatement.md)
 
-## Course Work
-* * *
-
-* [Major Paper](./MajorIntro.md)
-
-* [Core Course](./assets/CoreCourse.pdf)
-     
-* [Elective Course](./Elective.pdf)
+## [Course Work](CourseWork.md)
 
 ## [List of Courses](./courselisttest.md) 
 
