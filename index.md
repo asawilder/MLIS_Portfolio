@@ -9,18 +9,11 @@ layout: default
 * * *
 
 
-##  [Portfolio Issue](IssueStatement.md) 
-
-##  [Course Work](./CourseWork.md)
-
-##  [List of Courses](./courselisttest.md) 
-
-##  [Advising History](./advisinghistory.md)
-
-##  [Professional Development Statement](./ProfessionalDevelopment.md)
-
-##  [Curriculum Vitae](./Resume_pdf.pdf) 
-
-##  [Additional Supporting Materials](./support.md)
-
-##  [Accessibility Statement](./accessibility.md)
+## 1. [Portfolio Issue](IssueStatement.md) 
+## 2. [Course Work](./CourseWork.md)
+## 3. [List of Courses](./courselisttest.md) 
+## 4. [Advising History](./advisinghistory.md)
+## 5. [Professional Development Statement](./ProfessionalDevelopment.md)
+## 6. [Curriculum Vitae](./Resume_pdf.pdf) 
+## 7. [Additional Supporting Materials](./support.md)
+## 8. [Accessibility Statement](./accessibility.md)
