@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# UCLA MLIS Portfolio - Spring 2019
+
+<h1 style="font-family:garamond;"> # UCLA MLIS Portfolio - Spring 2019
 * * *
 
 
@@ -20,4 +21,4 @@ layout: default
 
 ##  [Additional Supporting Materials](./support.md)
 
-##  [Accessibility Statement](/accessibility.md)
+##  [Accessibility Statement](/accessibility.md)</h1>
