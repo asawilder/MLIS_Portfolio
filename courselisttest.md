@@ -5,12 +5,12 @@ layout: default
 # Course List
 
 ### Fall 2017
-* **<span style="color:blue">IS-211 Artifacts and Cultures </span>**, Prof. Johanna Drucker 
-* **<span style="color:blue">IS-260 Description and Access </span>**, Prof. Jonathan Furner
+* **<span style="color:blue">IS-211 Artifacts and Cultures</span>**, Prof. Johanna Drucker 
+* **<span style="color:blue">IS-260 Description and Access</span>**, Prof. Jonathan Furner
 * **IS-431 Archives, Records, and Memory**, Prof. Anne Gilliland
 
 ### Winter 2018
-* **<span style="color:blue">IS-270 Systems and Infrastructure </span>**, Prof. Miriam Posner
+* **<span style="color:blue">IS-270 Systems and Infrastructure</span>**, Prof. Miriam Posner
 * **IS-289 Theory and Politics of Collecting**, Prof. Shawn VanCour
 * **IS-480 Introduction to Media Archiving and Preservation**, Lecturer Snowden Becker
 
