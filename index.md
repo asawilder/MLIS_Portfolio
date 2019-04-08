@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<img src="self.png" alt="An individual stands on a ladder reaching for a book on a book shelf above a large letter press machine surrounded by other bookshelves and printing equipment">
 
 
 # UCLA MLIS Portfolio - Spring 2019
