@@ -1,8 +1,10 @@
 ---
 layout: default
-h1 {text-align: center;}
 ---
 
+body {
+  background-color: lightblue;
+}
 
 
 # Issue Statement
