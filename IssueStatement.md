@@ -4,13 +4,6 @@ layout: default
 
 
 
-<style>
-body {
-  background-color: lightblue;
-}
-</style>
-
-
 # Issue Statement
 *** 
 
@@ -23,5 +16,5 @@ body {
 
 # Issue Paper
 ***
-## Read [Emerging Solutions and New Challenges in Software Preservation](./assets/IssuePaper.pdf)
+## [Emerging Solutions and New Challenges in Software Preservation](./assets/IssuePaper.pdf)
 [back](./)
