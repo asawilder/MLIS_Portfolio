@@ -10,7 +10,7 @@ layout: default
 
 ##  [Portfolio Issue](IssueStatement.md) 
 
-##  [Course Work](CourseWork.md)
+##  [Course Work](./CourseWork.md)
 
 ##  [List of Courses](./courselisttest.md) 
 
