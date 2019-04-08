@@ -4,7 +4,7 @@ layout: default
 
 
 
-## Issue Statement
+## 50-Word Issue Statement
 *** 
 
 
@@ -17,5 +17,6 @@ Software obsolescence poses a major threat to the preservation of born-digital r
 ## Issue Paper
 ***
 [Emerging Solutions and New Challenges in Software Preservation](./assets/IssuePaper.pdf)
+
 
 [back](./)
