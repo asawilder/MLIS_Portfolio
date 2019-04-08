@@ -3,11 +3,11 @@ layout: default
 ---
 
 
- # UCLA MLIS Portfolio - Spring 2019
+# UCLA MLIS Portfolio - Spring 2019
 * * *
 
 
-##  <h1 style="font-family:garamond;">[Portfolio Issue](IssueStatement.md)</h1>
+##  [Portfolio Issue](IssueStatement.md)
 
 ##  [Course Work](CourseWork.md)
 
