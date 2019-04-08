@@ -14,10 +14,10 @@ layout: default
 
 ##  [Advising History](./advisinghistory.md)
 
-##  [Professional Development Statement]
+##  [Professional Development Statement](./ProfessionalDevelopment.pdf)
 
 ##  [Curriculum Vitae](./Resume_pdf.pdf) 
 
-##  [Additional Supporting Materials]
+##  [Additional Supporting Materials](./support.md)
 
-##  [Accessibility Statement]
+##  [Accessibility Statement](/accessibility.md)
