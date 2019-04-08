@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+p {font-family: "Times New Roman", Times, serif;} 
+  
 # Course List
 
 ### Fall 2017
