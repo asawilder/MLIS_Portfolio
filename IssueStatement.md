@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-h1 {
-  text-align: center;
-}
+h1 {text-align: center;}
 
 
 # Issue Statement
