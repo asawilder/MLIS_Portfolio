@@ -22,4 +22,4 @@ layout: default
 
 ##  [Additional Supporting Materials](./support.md)
 
-##  [Accessibility Statement](/accessibility.md)
+##  [Accessibility Statement](./accessibility.md)
