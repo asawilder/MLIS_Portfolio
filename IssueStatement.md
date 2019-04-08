@@ -2,9 +2,6 @@
 layout: default
 ---
 
-body {
-  background-color: lightblue;
-}
 
 
 # Issue Statement
