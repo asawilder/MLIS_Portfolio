@@ -37,8 +37,8 @@ layout: default
 * **Jewish Studies-M155: Magic, Mysticism and Apocalypse in Jewish Traditions**, Prof. Catherine Bonesho
 * **German-375 Teaching Apprentice Practicum**, Prof. Todd Presner
 
-***<span style="color:blue">Core course</span>
+*** <span style="color:blue">Core course</span>
 
-***<span style="color:red">Research methods course</span>
+*** <span style="color:red">Research methods course</span>
 
 [back](./)
