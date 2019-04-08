@@ -1,6 +1,5 @@
 ---
 layout: default
-p {font-family: garamond;}
 ---
 
 
