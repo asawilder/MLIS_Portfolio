@@ -8,7 +8,7 @@ layout: default
 * * *
 
 
-##  [Portfolio Issue](IssueStatement.md)
+##  [Portfolio Issue](IssueStatement.md) ![picture](./self.png)
 
 ##  [Course Work](CourseWork.md)
 
