@@ -16,7 +16,7 @@ layout: default
 
 ##  [Advising History](./advisinghistory.md)
 
-##  [Professional Development Statement](./ProfessionalDevelopment.pdf)
+##  [Professional Development Statement](./ProfessionalDevelopment.md)
 
 ##  [Curriculum Vitae](./Resume_pdf.pdf) 
 
