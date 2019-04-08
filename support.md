@@ -21,6 +21,6 @@ Created for Miraim Posner's *Systems and Infrastrucutres* course in Winter 2018,
 
 “Imperial Eyes” was a co-creation between myself and Ariel Hahn. I relied heavily on her prior skills and knowledge to guide me through many of the project's technical hurdles and challenges, and I am grateful for her introducing me to github and Jekyll. The following document is a final summary that details our approach, methods, and possible future plans for this experiment.
  
-[Imperial Eyes Project Summary](Methods.pdf)
+[Imperial Eyes Project Summary](./Methods.pdf)
 
 
