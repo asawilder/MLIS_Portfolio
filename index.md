@@ -17,3 +17,7 @@ layout: default
 ## 6. [Curriculum Vitae](./CV.pdf) 
 ## 7. [Additional Supporting Materials](./support.md)
 ## 8. [Accessibility Statement](./accessibility.md)
+
+
+* * *
+### [Printer-friendly PDF Version](./PrinterFriendly)
