@@ -20,4 +20,5 @@ layout: default
 
 
 * * *
-### [Printer-friendly PDF Version](./PrinterFriendly)
+### Printer-friendly PDF Version:
+[![Printer-friendly PDF Version](./cover.png)](./PrinterFriendly)
