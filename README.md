@@ -1,5 +1,5 @@
 
-## This repository holds all of the materials that make up Asa Wilder's portfolio submission for the Masters of Library and Information Science program at the University of California, Los Angeles.
+## This repository holds all of the materials that make up Asa Wilder's portfolio submission for the Master of Library and Information Science program at the University of California, Los Angeles.
 
 ### This repository was originally forked from "Minimal," a Jekyll theme.
 
