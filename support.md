@@ -4,6 +4,10 @@ layout: default
 
 ## Supporting Materials
 
+
+* * *
+
+
 ### Imperial Eyes
 
 ![Imperial Eyes Logo](./imperial eyes.png)
@@ -23,8 +27,6 @@ layout: default
 <iframe src="https://player.vimeo.com/video/261676655" width="500" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Created for Professor Miraim Posner's *Systems and Infrastrucutres* course in Winter 2018, this digital story investigates the history and emergence of physcial cellular network infrastructure in the United States. Part of a larger, quarter-long project on this topic, this short video was also accompanied by a series of essays on related topics. Having little prior experience in creating moving image or time based media, I include a link here to illustrate the varied skills developed through my core course work and to demonstrate my ability to work and adapt to a wider range of media formats. 
-
-* * *
 
 
 
