@@ -23,5 +23,5 @@ layout: default
 ### Printer-friendly PDF Version:
 [![Printer-friendly PDF Version](./Cover.png)](./PrinterFriendly)
  <a href="./PrinterFriendly">
-  <img src="./Cover.png" alt="Printer-friendly PDF Version" style="width:42px;height:42px;border:0;">
+  <img src="./Cover.png" alt="Printer-friendly PDF Version" style="width:100px">
 </a> 
