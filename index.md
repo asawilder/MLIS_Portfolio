@@ -26,7 +26,7 @@ layout: default
   <img src="./Cover.png" alt="Printer-friendly PDF Version" style="width:250px">
 </a> 
 
- <hr width="50%" align="center">
+ 
         
         
 * * *
